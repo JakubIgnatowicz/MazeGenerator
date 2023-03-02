@@ -1,2 +1,2 @@
 # MazeGenerator
-Simple implementation of maze generator with JavaScript.
+Fun side project i did while takeing a break from working on chess.
